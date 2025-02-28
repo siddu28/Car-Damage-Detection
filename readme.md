@@ -20,6 +20,9 @@ app.
    1. Rear Breakage
 9. The accuracy on the validation set was around 80%
 
+### Streamlit app
+https://car-damage-detection-project.streamlit.app/
+
 ### Set Up
 
 1. To get started, first install the dependencies using:
