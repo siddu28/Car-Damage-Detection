@@ -148,4 +148,4 @@ cython_debug/
 
 # Ignore all .pth files except model/saved_model.pth
 *.pth
-!streamlit/model/saved_model.pth
+!model/saved_model.pth
