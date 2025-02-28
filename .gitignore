@@ -146,6 +146,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Ignore all .pth files except model/saved_model.pth
-*.pth
-!model/saved_model.pth
+
